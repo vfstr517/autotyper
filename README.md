@@ -33,8 +33,12 @@ A human-like auto typing simulator with a customizable GUI interface built in Py
 ---
 
 ## 📦 Installation Requirements
--Python 3.6+
--Windows OS recommended
+  -Python 3.6+
+  -Python Modules
+    --pyautogui 
+    --keyboard 
+    --pyperclip
+  -Windows OS recommended
 
 ## 📸 Screenshots
 
