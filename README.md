@@ -39,10 +39,10 @@ Windows OS recommended
 ## 📸 Screenshots
 
 ### 🌞 Light Mode
-![Light Mode](light_mode.png)
+![Light Mode](assets/light_mode.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](dark_mode.png)
+![Dark Mode](assets/dark_mode.png)
 
 
 ### 1. Clone the repository
